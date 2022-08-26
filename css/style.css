@@ -1,0 +1,23 @@
+.box{width: 100px;
+height: 100px;}
+
+.sky{background-color: deepskyblue;}
+.yellow{background-color: darkgoldenrod;
+	margin-left: 100px;
+	padding: 20px;
+	border: 10px dashed green;}
+
+	.frame{ width: 49%;
+    height: 375px;
+  }
+
+  .frame2{width: 100%;
+  	height: 450px;}
+
+  h1{display: inline;}
+  h2{display: inline;}
+  .span{color: green;
+  	background-color: aqua;}
+
+h4 span{
+  	background-color: peru;}
